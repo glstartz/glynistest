@@ -6,8 +6,6 @@ set more off
 
 sysuse auto, clear
 
-t
-akljdfasklj
 
 *Describe key variables:
 describe make price weight length
