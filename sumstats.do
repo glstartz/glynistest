@@ -6,6 +6,10 @@ set more off
 
 sysuse auto, clear
 
+tlaeskldfsdfskjdfskj
+dfaskjdfas
+akljdfasklj
+
 *Describe key variables:
 describe make price weight length
 
