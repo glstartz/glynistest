@@ -6,8 +6,7 @@ set more off
 
 sysuse auto, clear
 
-tlaeskldfsdfskjdfskj
-dfaskjdfas
+t
 akljdfasklj
 
 *Describe key variables:
